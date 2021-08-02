@@ -1,4 +1,4 @@
-apiVersion: v2
+apiVersion: v1
 name: devops-bookstore-api
 description: A Helm chart for deploying the backed Python Flask API
 type: application
